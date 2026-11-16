@@ -1,0 +1,501 @@
+sale_id,product,caliber,quantity,price
+1,Gadget,Small,9,52.75
+2,Bolt Pack,Large,18,21.95
+3,Bracket,Small,3,47.63
+4,Widget,Medium,18,86.81
+5,Valve,Medium,1,152.97
+6,Bolt Pack,Medium,11,59.18
+7,Cable,Extra Large,11,24.93
+8,Bracket,Small,12,122.73
+9,Widget,Large,18,29.34
+10,Bracket,Small,10,166.73
+11,Switch,Medium,3,13.94
+12,Cable,Large,3,171.79
+13,Gadget,Small,15,128.96
+14,Switch,Small,12,45.85
+15,Sensor,Large,3,123.78
+16,Bolt Pack,Medium,8,36.86
+17,Bracket,Small,18,47.82
+18,Switch,Large,2,49.66
+19,Widget,Large,13,57.21
+20,Cable,Extra Large,19,175.89
+21,Switch,Small,16,82.15
+22,Valve,Small,5,53.09
+23,Sensor,Large,14,180.08
+24,Bracket,Small,5,104.36
+25,Gadget,Large,4,34.8
+26,Bolt Pack,Large,14,121.3
+27,Bracket,Small,15,108.18
+28,Widget,Medium,4,137.93
+29,Sensor,Large,11,26.75
+30,Bracket,Small,1,190.99
+31,Sensor,Extra Large,6,104.0
+32,Gadget,Large,10,169.13
+33,Cable,Small,6,110.18
+34,Widget,Medium,16,8.8
+35,Switch,Large,10,51.69
+36,Cable,Large,3,21.7
+37,Valve,Large,18,154.34
+38,Bolt Pack,Medium,18,37.2
+39,Bracket,Extra Large,18,152.28
+40,Cable,Large,13,199.05
+41,Switch,Medium,17,93.04
+42,Cable,Small,11,9.1
+43,Cable,Medium,1,18.84
+44,Widget,Small,2,172.63
+45,Gadget,Medium,9,135.45
+46,Cable,Medium,19,117.36
+47,Cable,Large,14,42.13
+48,Gadget,Medium,12,87.6
+49,Valve,Large,2,136.31
+50,Gadget,Small,11,161.12
+51,Gadget,Small,7,109.58
+52,Bolt Pack,Medium,9,95.21
+53,Gadget,Medium,18,24.09
+54,Widget,Extra Large,8,37.43
+55,Valve,Medium,13,180.98
+56,Bolt Pack,Small,13,56.71
+57,Valve,Small,18,134.06
+58,Valve,Small,10,47.45
+59,Widget,Medium,18,16.89
+60,Switch,Small,19,97.97
+61,Bolt Pack,Small,17,20.62
+62,Bolt Pack,Small,3,136.67
+63,Cable,Medium,19,53.01
+64,Widget,Medium,14,133.19
+65,Switch,Extra Large,7,135.6
+66,Switch,Small,13,30.52
+67,Sensor,Medium,3,6.82
+68,Gadget,Small,7,103.65
+69,Bolt Pack,Extra Large,3,176.46
+70,Switch,Small,15,167.58
+71,Sensor,Medium,17,6.53
+72,Sensor,Extra Large,4,188.09
+73,Bolt Pack,Small,4,149.77
+74,Bolt Pack,Small,20,46.07
+75,Switch,Small,9,103.55
+76,Sensor,Extra Large,2,23.0
+77,Bracket,Large,2,5.69
+78,Bolt Pack,Medium,9,36.51
+79,Valve,Medium,14,114.38
+80,Gadget,Small,5,111.39
+81,Switch,Medium,5,88.81
+82,Widget,Small,2,180.29
+83,Cable,Medium,4,73.97
+84,Bracket,Extra Large,5,185.52
+85,Cable,Large,6,176.88
+86,Widget,Small,11,157.57
+87,Bracket,Large,8,57.03
+88,Gadget,Small,2,172.43
+89,Cable,Small,15,73.18
+90,Cable,Small,7,82.7
+91,Sensor,Large,9,73.47
+92,Bracket,Medium,18,69.57
+93,Widget,Small,9,39.82
+94,Sensor,Small,20,89.74
+95,Switch,Medium,17,27.55
+96,Cable,Small,14,5.33
+97,Cable,Small,3,190.03
+98,Switch,Medium,4,145.35
+99,Sensor,Medium,14,68.61
+100,Sensor,Medium,7,86.99
+101,Bracket,Medium,6,125.03
+102,Sensor,Medium,1,64.26
+103,Cable,Medium,19,123.3
+104,Switch,Medium,15,136.75
+105,Valve,Large,6,133.48
+106,Sensor,Medium,20,70.36
+107,Cable,Medium,8,162.28
+108,Bolt Pack,Small,8,196.87
+109,Gadget,Medium,19,42.91
+110,Bracket,Medium,8,33.78
+111,Widget,Large,4,156.79
+112,Cable,Small,17,95.59
+113,Cable,Extra Large,4,94.01
+114,Valve,Medium,18,121.11
+115,Valve,Medium,17,88.21
+116,Valve,Large,16,92.76
+117,Cable,Large,9,154.33
+118,Valve,Medium,9,90.78
+119,Sensor,Small,11,67.34
+120,Gadget,Small,8,79.69
+121,Bolt Pack,Large,3,85.9
+122,Switch,Medium,14,17.14
+123,Bracket,Small,19,189.48
+124,Widget,Large,19,79.17
+125,Widget,Extra Large,10,151.93
+126,Bracket,Medium,18,160.97
+127,Cable,Medium,9,89.99
+128,Widget,Small,13,146.22
+129,Valve,Extra Large,20,109.15
+130,Bracket,Medium,1,21.37
+131,Bracket,Small,15,40.44
+132,Sensor,Small,7,93.67
+133,Switch,Large,13,59.26
+134,Bracket,Small,3,96.71
+135,Widget,Extra Large,12,48.72
+136,Gadget,Large,2,152.08
+137,Cable,Small,1,126.16
+138,Cable,Small,4,114.97
+139,Cable,Medium,9,154.55
+140,Bolt Pack,Medium,4,156.67
+141,Bolt Pack,Extra Large,4,117.84
+142,Sensor,Medium,13,82.35
+143,Cable,Small,8,24.87
+144,Sensor,Large,20,162.08
+145,Widget,Small,14,134.0
+146,Gadget,Medium,11,7.47
+147,Bracket,Large,4,89.54
+148,Switch,Medium,15,142.93
+149,Bracket,Small,17,193.27
+150,Sensor,Medium,18,156.06
+151,Valve,Medium,19,57.34
+152,Cable,Large,3,59.39
+153,Valve,Small,15,116.12
+154,Bracket,Small,16,170.94
+155,Bolt Pack,Medium,12,160.58
+156,Switch,Small,20,141.73
+157,Sensor,Medium,17,189.87
+158,Gadget,Small,14,100.27
+159,Cable,Medium,16,92.39
+160,Widget,Small,8,83.86
+161,Cable,Small,19,76.96
+162,Switch,Medium,18,69.5
+163,Valve,Small,9,49.95
+164,Cable,Small,18,190.42
+165,Bolt Pack,Small,16,58.92
+166,Sensor,Extra Large,7,62.77
+167,Switch,Small,1,143.06
+168,Bolt Pack,Small,2,112.9
+169,Bolt Pack,Medium,16,25.0
+170,Widget,Medium,16,98.35
+171,Switch,Small,2,54.23
+172,Valve,Small,3,83.14
+173,Gadget,Medium,2,34.59
+174,Sensor,Small,8,28.1
+175,Bracket,Medium,20,49.01
+176,Bracket,Medium,15,62.98
+177,Bracket,Small,20,16.74
+178,Gadget,Extra Large,7,126.98
+179,Sensor,Medium,6,51.77
+180,Gadget,Small,14,92.85
+181,Valve,Small,8,61.18
+182,Sensor,Large,15,18.88
+183,Cable,Extra Large,19,133.93
+184,Cable,Medium,18,48.84
+185,Bolt Pack,Extra Large,5,18.92
+186,Bolt Pack,Large,20,151.05
+187,Sensor,Medium,15,139.29
+188,Bracket,Extra Large,17,110.3
+189,Valve,Small,2,178.44
+190,Switch,Medium,1,22.81
+191,Widget,Extra Large,9,117.37
+192,Bolt Pack,Medium,15,183.63
+193,Bolt Pack,Extra Large,14,128.78
+194,Valve,Extra Large,16,72.85
+195,Switch,Small,4,172.26
+196,Switch,Medium,16,61.2
+197,Bracket,Large,18,12.16
+198,Gadget,Small,11,27.6
+199,Bracket,Large,1,133.24
+200,Valve,Medium,7,106.1
+201,Valve,Medium,2,44.69
+202,Bolt Pack,Extra Large,15,176.77
+203,Valve,Small,20,160.87
+204,Bolt Pack,Small,1,112.69
+205,Gadget,Small,4,94.98
+206,Gadget,Medium,5,102.18
+207,Sensor,Medium,9,86.02
+208,Valve,Extra Large,8,94.07
+209,Bolt Pack,Small,20,104.11
+210,Bolt Pack,Large,9,155.67
+211,Bracket,Small,17,57.1
+212,Widget,Small,10,168.31
+213,Valve,Large,15,110.02
+214,Switch,Small,18,78.56
+215,Switch,Large,8,116.5
+216,Cable,Large,14,13.51
+217,Valve,Large,13,80.29
+218,Bolt Pack,Medium,2,29.62
+219,Switch,Large,15,24.44
+220,Valve,Small,5,84.95
+221,Bolt Pack,Small,9,71.02
+222,Bracket,Medium,11,171.21
+223,Bracket,Extra Large,16,175.11
+224,Widget,Medium,8,128.08
+225,Sensor,Extra Large,3,89.62
+226,Gadget,Large,4,91.52
+227,Sensor,Extra Large,2,68.25
+228,Widget,Small,12,88.98
+229,Cable,Medium,19,137.95
+230,Bolt Pack,Small,3,123.85
+231,Bracket,Medium,8,102.05
+232,Bolt Pack,Small,9,94.62
+233,Widget,Large,15,180.74
+234,Bolt Pack,Small,12,197.59
+235,Sensor,Medium,14,139.61
+236,Valve,Large,7,199.88
+237,Valve,Small,13,116.52
+238,Sensor,Extra Large,10,9.28
+239,Bracket,Small,19,173.69
+240,Widget,Extra Large,16,167.4
+241,Sensor,Large,8,123.38
+242,Switch,Small,7,126.07
+243,Bolt Pack,Medium,2,65.24
+244,Valve,Small,12,147.81
+245,Gadget,Extra Large,11,150.76
+246,Bolt Pack,Small,18,175.91
+247,Switch,Medium,9,166.94
+248,Sensor,Extra Large,16,193.64
+249,Sensor,Large,11,161.83
+250,Valve,Extra Large,5,152.06
+251,Cable,Large,13,193.62
+252,Switch,Small,13,7.71
+253,Gadget,Medium,9,118.99
+254,Switch,Small,8,96.94
+255,Switch,Extra Large,8,131.29
+256,Valve,Extra Large,10,131.6
+257,Gadget,Small,2,64.35
+258,Valve,Small,8,178.02
+259,Bolt Pack,Small,12,135.74
+260,Bracket,Medium,5,177.66
+261,Gadget,Large,20,84.58
+262,Sensor,Small,12,47.37
+263,Valve,Extra Large,12,24.37
+264,Switch,Medium,12,16.81
+265,Sensor,Small,4,190.06
+266,Valve,Small,7,130.13
+267,Widget,Small,11,52.5
+268,Bolt Pack,Large,7,18.38
+269,Cable,Medium,8,69.07
+270,Bolt Pack,Large,20,5.55
+271,Bolt Pack,Extra Large,18,53.88
+272,Bolt Pack,Small,1,30.7
+273,Switch,Large,8,119.83
+274,Widget,Small,2,29.72
+275,Bracket,Medium,3,97.87
+276,Switch,Medium,4,93.14
+277,Cable,Extra Large,2,146.81
+278,Sensor,Medium,1,16.86
+279,Valve,Large,14,138.79
+280,Valve,Large,15,19.33
+281,Gadget,Small,5,17.81
+282,Sensor,Medium,19,111.93
+283,Switch,Small,20,108.46
+284,Valve,Medium,14,24.34
+285,Gadget,Large,18,145.56
+286,Cable,Medium,8,85.69
+287,Valve,Small,4,65.95
+288,Switch,Medium,12,190.95
+289,Valve,Small,3,23.18
+290,Gadget,Large,12,163.3
+291,Widget,Medium,18,114.53
+292,Gadget,Medium,14,174.28
+293,Widget,Extra Large,20,65.93
+294,Gadget,Medium,7,35.17
+295,Valve,Small,4,73.27
+296,Switch,Small,9,116.95
+297,Bracket,Large,20,124.65
+298,Widget,Medium,9,10.65
+299,Sensor,Large,10,184.7
+300,Switch,Small,5,115.43
+301,Bracket,Small,1,22.89
+302,Cable,Small,15,71.47
+303,Switch,Small,11,156.48
+304,Gadget,Large,5,35.69
+305,Widget,Medium,9,91.41
+306,Bracket,Medium,15,85.77
+307,Cable,Large,4,72.31
+308,Gadget,Small,19,99.89
+309,Sensor,Small,13,196.97
+310,Widget,Small,10,189.34
+311,Bolt Pack,Large,10,68.98
+312,Widget,Medium,14,39.26
+313,Bracket,Medium,8,102.55
+314,Switch,Small,2,90.06
+315,Valve,Extra Large,11,117.27
+316,Bracket,Large,14,61.46
+317,Bracket,Small,11,38.52
+318,Valve,Large,12,22.19
+319,Gadget,Small,19,83.09
+320,Gadget,Small,10,150.43
+321,Cable,Small,6,19.89
+322,Gadget,Medium,7,181.65
+323,Switch,Small,5,51.07
+324,Bolt Pack,Small,6,122.47
+325,Gadget,Small,16,95.47
+326,Valve,Medium,19,130.38
+327,Switch,Large,11,34.44
+328,Gadget,Medium,10,160.28
+329,Widget,Small,3,65.53
+330,Valve,Small,12,167.18
+331,Gadget,Medium,3,124.93
+332,Bracket,Medium,18,191.08
+333,Widget,Medium,19,132.11
+334,Switch,Medium,17,34.42
+335,Widget,Medium,11,196.57
+336,Gadget,Medium,6,12.63
+337,Valve,Extra Large,17,106.94
+338,Bolt Pack,Small,10,80.55
+339,Switch,Medium,2,158.9
+340,Switch,Small,4,113.8
+341,Bracket,Small,20,175.29
+342,Switch,Small,5,183.77
+343,Sensor,Extra Large,13,30.15
+344,Gadget,Small,13,130.48
+345,Switch,Large,17,23.22
+346,Bracket,Medium,1,75.71
+347,Bolt Pack,Extra Large,11,189.8
+348,Valve,Small,5,35.21
+349,Sensor,Large,4,104.0
+350,Widget,Medium,20,30.55
+351,Bracket,Small,6,167.11
+352,Bolt Pack,Large,2,85.12
+353,Cable,Extra Large,20,60.56
+354,Valve,Small,8,65.35
+355,Valve,Extra Large,7,76.73
+356,Valve,Medium,10,156.73
+357,Bracket,Extra Large,7,161.25
+358,Bolt Pack,Large,2,130.03
+359,Switch,Medium,4,143.72
+360,Gadget,Small,6,58.19
+361,Bolt Pack,Large,3,189.55
+362,Cable,Large,12,186.44
+363,Bracket,Small,17,77.92
+364,Bracket,Extra Large,12,48.79
+365,Switch,Extra Large,11,159.32
+366,Bolt Pack,Small,16,140.73
+367,Bolt Pack,Large,16,92.48
+368,Widget,Extra Large,1,54.91
+369,Bolt Pack,Medium,20,107.92
+370,Gadget,Large,8,63.72
+371,Widget,Small,20,94.14
+372,Gadget,Large,16,121.36
+373,Widget,Medium,19,52.18
+374,Bolt Pack,Small,1,124.89
+375,Cable,Medium,6,134.55
+376,Gadget,Medium,12,18.2
+377,Widget,Small,16,13.49
+378,Bracket,Extra Large,9,150.73
+379,Switch,Large,12,52.02
+380,Gadget,Large,11,31.01
+381,Switch,Medium,6,166.92
+382,Valve,Extra Large,16,128.19
+383,Bolt Pack,Small,15,12.21
+384,Cable,Small,7,177.73
+385,Switch,Extra Large,17,82.65
+386,Valve,Small,7,60.79
+387,Widget,Large,11,58.28
+388,Switch,Medium,13,149.95
+389,Bracket,Small,6,101.76
+390,Valve,Small,17,57.01
+391,Gadget,Large,3,88.97
+392,Bolt Pack,Medium,11,25.01
+393,Switch,Medium,10,91.95
+394,Bracket,Small,15,73.55
+395,Widget,Large,12,124.9
+396,Bracket,Small,2,19.63
+397,Bracket,Small,6,190.79
+398,Bolt Pack,Large,15,11.79
+399,Gadget,Small,12,75.62
+400,Widget,Medium,15,190.02
+401,Switch,Medium,3,116.91
+402,Switch,Small,9,53.67
+403,Gadget,Small,6,102.31
+404,Bracket,Extra Large,4,56.05
+405,Sensor,Large,7,199.29
+406,Sensor,Medium,16,44.03
+407,Bolt Pack,Large,15,38.67
+408,Valve,Extra Large,11,135.23
+409,Gadget,Medium,10,178.81
+410,Bolt Pack,Large,6,159.77
+411,Cable,Small,7,159.45
+412,Cable,Large,1,75.37
+413,Switch,Medium,18,30.31
+414,Gadget,Small,13,199.92
+415,Valve,Medium,14,165.55
+416,Gadget,Small,11,130.26
+417,Valve,Medium,17,72.18
+418,Bolt Pack,Large,5,89.36
+419,Widget,Large,17,34.84
+420,Bolt Pack,Small,8,72.47
+421,Sensor,Large,9,43.28
+422,Sensor,Small,10,124.81
+423,Gadget,Medium,6,120.4
+424,Bolt Pack,Small,20,145.52
+425,Switch,Large,19,13.03
+426,Widget,Small,19,56.61
+427,Cable,Large,14,125.53
+428,Widget,Medium,18,61.49
+429,Sensor,Medium,13,63.0
+430,Gadget,Medium,6,90.72
+431,Valve,Medium,11,123.3
+432,Switch,Large,11,148.17
+433,Switch,Extra Large,5,153.33
+434,Gadget,Small,15,28.89
+435,Valve,Small,4,14.87
+436,Bracket,Large,14,53.41
+437,Bolt Pack,Large,19,145.62
+438,Cable,Large,16,199.21
+439,Valve,Medium,10,101.99
+440,Gadget,Extra Large,17,94.16
+441,Cable,Small,12,14.49
+442,Sensor,Medium,16,60.72
+443,Widget,Large,14,31.12
+444,Sensor,Large,13,76.36
+445,Bracket,Small,18,42.96
+446,Sensor,Small,17,92.82
+447,Sensor,Large,20,137.68
+448,Gadget,Small,4,81.81
+449,Switch,Medium,12,152.22
+450,Cable,Medium,13,102.52
+451,Widget,Small,11,161.77
+452,Valve,Small,17,32.26
+453,Switch,Small,20,149.17
+454,Sensor,Medium,17,166.52
+455,Valve,Large,10,97.6
+456,Widget,Small,4,196.08
+457,Sensor,Large,1,121.4
+458,Sensor,Extra Large,19,117.64
+459,Widget,Medium,6,107.23
+460,Bracket,Small,8,11.16
+461,Gadget,Small,15,66.17
+462,Bolt Pack,Medium,7,85.02
+463,Valve,Large,2,142.63
+464,Cable,Medium,16,107.47
+465,Switch,Extra Large,15,182.86
+466,Switch,Medium,9,123.96
+467,Cable,Extra Large,9,113.83
+468,Cable,Extra Large,10,155.38
+469,Cable,Medium,16,66.82
+470,Switch,Medium,9,61.12
+471,Bracket,Large,13,164.58
+472,Bolt Pack,Small,10,191.29
+473,Gadget,Small,15,132.91
+474,Valve,Small,18,57.87
+475,Sensor,Small,20,149.47
+476,Cable,Small,17,49.01
+477,Cable,Small,14,69.41
+478,Valve,Small,5,6.01
+479,Bolt Pack,Medium,16,98.1
+480,Cable,Large,10,67.63
+481,Widget,Extra Large,3,132.2
+482,Cable,Medium,2,183.08
+483,Bolt Pack,Medium,6,187.11
+484,Widget,Extra Large,13,158.65
+485,Bolt Pack,Extra Large,10,175.96
+486,Widget,Small,20,25.92
+487,Switch,Small,18,107.24
+488,Bolt Pack,Large,15,58.2
+489,Gadget,Small,15,131.42
+490,Bolt Pack,Small,11,159.2
+491,Cable,Small,13,166.26
+492,Switch,Small,4,41.03
+493,Bolt Pack,Medium,8,6.33
+494,Bracket,Small,9,191.04
+495,Sensor,Medium,19,7.23
+496,Switch,Medium,2,135.22
+497,Valve,Small,13,138.78
+498,Sensor,Medium,10,76.67
+499,Cable,Small,5,98.25
+500,Valve,Large,20,77.86
